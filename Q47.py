@@ -1,0 +1,6 @@
+list_data = list((1, 2, 3))
+tuple_data = tuple([4, 5, 6])
+dict_data = dict(name="Asha", age=18)
+print(list_data)
+print(tuple_data)
+print(dict_data)
